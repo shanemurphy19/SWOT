@@ -1,0 +1,2 @@
+# SWOT
+ SWOT Analysis Test
